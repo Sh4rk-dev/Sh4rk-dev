@@ -9,14 +9,14 @@
   🎮: Meu hobby preferido é jogar vídeo game. Adoro jogos de FPS (CS2), Corrida (The Crew 2) & de mundo aberto (GTA V). 
 </p>
 <p>
-  🖥: My stack: ReactJS, React Native, Typescript, Tailwind CSS & Expo
+  🖥: My stack: ReactJS, React Native, Typescript, Tailwind CSS & Expo GO
 </p>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Expo GO](https://img.shields.io/badge/expo%20go-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 </div>
 
